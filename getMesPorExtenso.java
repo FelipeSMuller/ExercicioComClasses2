@@ -13,7 +13,7 @@ public class getMesPorExtenso {
 	public static String MesesDoAno(int MesesDoAno) {
 
 		String[] mesesDoAno = { "January", "February", "March", "April", "May", "June", "July", "August", "September",
-				"October	", "November", "December" };
+				"October", "November", "December" };
 		return mesesDoAno[MesesDoAno];
 
 	}
